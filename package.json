@@ -1,0 +1,19 @@
+{
+  "name": "imagefolder-to-pdf-node",
+  "version": "1.0.0",
+  "description": "Application to convert folder of images into single pdf document",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smoke3785/imagefolder-to-pdf-node.git"
+  },
+  "author": "Smoke3785",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smoke3785/imagefolder-to-pdf-node/issues"
+  },
+  "homepage": "https://github.com/Smoke3785/imagefolder-to-pdf-node#readme"
+}
