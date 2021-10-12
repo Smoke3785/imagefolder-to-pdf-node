@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Smoke3785/imagefolder-to-pdf-node/issues"
   },
-  "homepage": "https://github.com/Smoke3785/imagefolder-to-pdf-node#readme"
+  "homepage": "https://github.com/Smoke3785/imagefolder-to-pdf-node#readme",
+  "dependencies": {
+    "pdf-lib": "^1.16.0"
+  }
 }
